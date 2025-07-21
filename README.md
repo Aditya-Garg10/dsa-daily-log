@@ -5,10 +5,14 @@ My daily DSA practice log with solutions, notes, and progress tracking.
 
 This repository contains my daily practice of DSA problems.
 
-### 📊 Progress
 
-<!-- Progress Bar: Automatically updates based on problems solved in progress.md -->
-![Progress](https://progress-bar.dev/2/?scale=120&title=Problems%20Solved)
+<h2 align="center">📊 DSA Progress</h2>
+<p align="center">
+  <b>Problems Solved:</b> 1 / 150
+</p>
+<p align="center">
+  <img src="https://progress-bar.dev/1/?scale=150&title=Problems%20Solved" alt="Progress Bar">
+</p>
 
 ### Weekly Tracker
 
