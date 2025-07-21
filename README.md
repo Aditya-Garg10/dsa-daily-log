@@ -6,13 +6,15 @@ My daily DSA practice log with solutions, notes, and progress tracking.
 This repository contains my daily practice of DSA problems.
 
 
-<h2 align="center">📊 DSA Progress</h2>
-<p align="center">
-  <b>Problems Solved:</b> 1 / 150
-</p>
-<p align="center">
-  <img src="https://progress-bar.dev/1/?scale=150&title=Problems%20Solved" alt="Progress Bar">
-</p>
+
+## 📊 DSA Progress
+
+**Problems Solved:** 1 / 150
+
+![Problems Solved](https://progress-bar.dev/1/?scale=150&title=Problems%20Solved)
+
+<!-- Fallback badge for reliability -->
+![Problems Solved](https://img.shields.io/badge/Problems_Solved-1%2F150-blue)
 
 ### Weekly Tracker
 
