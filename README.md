@@ -11,9 +11,6 @@ This repository contains my daily practice of DSA problems.
 
 **Problems Solved:** 1 / 150
 
-![Problems Solved](https://progress-bar.dev/1/?scale=150&title=Problems%20Solved)
-
-<!-- Fallback badge for reliability -->
 ![Problems Solved](https://img.shields.io/badge/Problems_Solved-1%2F150-blue)
 
 ### Weekly Tracker
