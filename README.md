@@ -8,7 +8,7 @@ This repository contains my daily practice of DSA problems.
 ### 📊 Progress
 
 <!-- Progress Bar: Automatically updates based on problems solved in progress.md -->
-![Progress](https://progress-bar.dev/2/120?title=Problems%20Solved)
+![Progress](https://progress-bar.dev/2/?scale=120&title=Problems%20Solved)
 
 ### Weekly Tracker
 
